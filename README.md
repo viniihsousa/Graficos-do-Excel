@@ -1,4 +1,4 @@
-# Graficos-do-Excel
+# Graficos do Excel
 
 Segue abaixo o arquivo do Excel com os gráficos criados.
 
